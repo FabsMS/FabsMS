@@ -16,8 +16,6 @@
   <img align="center" alt="Fabs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Fabs-Pd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 
-  <img  align="center" alt="Fabs-Pd" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-
   <img align="right" width="148" height="180" src="https://media0.giphy.com/media/BWYS3xLAYVrQWSqrzj/200w.webp?cid=ecf05e477zzv69z6kcfea672waofcakxdugjnidop3ay9hm5&rid=200w.webp&ct=g">
 </div>
   
