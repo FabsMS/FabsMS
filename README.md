@@ -17,7 +17,7 @@
   <img align="center" alt="Fabs-Np" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
   <img align="center" alt="Fabs-Pd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 
-  <img align="right" width="148" height="180" src="https://media0.giphy.com/media/BWYS3xLAYVrQWSqrzj/200w.webp?cid=ecf05e477zzv69z6kcfea672waofcakxdugjnidop3ay9hm5&rid=200w.webp&ct=g">
+  <img align="right" width="180" src="https://user-images.githubusercontent.com/88853605/150539745-a2680eb9-be60-4c1c-9a63-17a5642162b6.gif">
 </div>
   
 ##
