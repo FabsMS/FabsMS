@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230CF516&size=90&center=true&vCenter=true&multiline=true&width=2000&height=300&lines=Welcome+to+my+GitHub...;My+name+is+Fabricio!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230CF516&size=90&center=true&vCenter=true&multiline=true&width=2000&height=300&lines=Welcome+to+my+GitHub...;)](https://git.io/typing-svg)
 <hr>
  
 <p align="center">Sou estudante de Engenharia da Computação, atualmente cursando o terceiro periodo no IFPB</p>
