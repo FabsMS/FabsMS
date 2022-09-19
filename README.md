@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230CF516&size=90&center=true&vCenter=true&multiline=true&width=2000&height=300&lines=Welcome+to+my+GitHub...;)](https://git.io/typing-svg)
 <hr>
  
-<p align="center">Sou estudante de Engenharia da Computação, atualmente cursando o terceiro periodo no IFPB</p>
+<p align="center">Sou estudante de Engenharia da Computação, atualmente cursando o quarto periodo no IFPB</p>
 <p align="center">Estou sempre buscando aprender mais, para poder, sempre, apresentar e entregar o melhor possível para todos!😁</p>
 
 <div align="center">
