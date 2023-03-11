@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=1AF721&center=true&vCenter=true&width=1000&height=100&lines=Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 <hr>
  
-<p align="center">Sou estudante de Engenharia da Computação, atualmente cursando o quarto periodo no IFPB</p>
+<p align="center">Sou estudante de Engenharia da Computação, atualmente cursando o quinto periodo no IFPB</p>
 <p align="center">Estou sempre buscando aprender mais, para poder, sempre, apresentar e entregar o melhor possível para todos!😁</p>
 
 <div align="center">
