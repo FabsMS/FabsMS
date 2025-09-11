@@ -1,13 +1,15 @@
 <!-- Banner animado -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Fabrício%20Moreno&fontSize=40&fontAlignY=35)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Fabrício%20Moreno&fontSize=40&fontAlignY=35"/>
+</p>
 
 <!-- Introdução -->
 <h2 align="center">👋 Olá! Seja bem-vindo ao meu GitHub</h2>
 
 <p align="center">
-  🚀 Estudante de <b>Engenharia da Computação</b> (6º período - IFPB)<br>
-  💻 Apaixonado por <b>Backend</b> e <b>Fullstack</b><br>
-  📚 Explorando <b>Go, React, Ciência de Dados</b> e muito mais!
+  🚀 Estudante de <b>Engenharia da Computação</b> (9º período - IFPB)<br>
+  💻 Desenvolvedor e <b>Fullstack</b><br>
+  📚 Explorando <b>Go, Ciência de Dados</b> e muito mais!
 </p>
 
 ---
