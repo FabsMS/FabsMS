@@ -54,7 +54,8 @@
 
 ## 💡 Projetos em Destaque
 - [📘 Clarity](https://github.com/FabsMS/Clarity) → Extensão para VS Code que gera documentação automática do projeto.
-
+- [🪟 AutoPersi](https://github.com/FabsMS/Projeto-Final-Prototipagem) → Projeto de persiana automática a partir de sensores de chuva e luminosidade.
+- [♟️ Xadrez em Python](https://github.com/FabsMS/Xadrez-Python) → Xadrez de console feito em Python (trabalho do segundo semestre da faculdade).
 ---
 
 ## 🌎 Onde me encontrar
