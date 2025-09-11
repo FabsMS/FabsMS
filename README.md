@@ -9,6 +9,7 @@
 <p align="center">
   🚀 Estudante de <b>Engenharia da Computação</b> (9º período - IFPB)<br>
   💻 Desenvolvedor <b>Fullstack</b><br>
+  💼 Experiência profissional como <b>Front-End</b><br>
   📚 Explorando <b>Go, Ciência de Dados</b> e muito mais!
 </p>
 
