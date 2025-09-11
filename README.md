@@ -1,62 +1,65 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=1AF721&center=true&vCenter=true&width=1000&height=100&lines=Welcome+to+my+GitHub!)](https://git.io/typing-svg)
-<hr>
- 
-<p align="center">Sou estudante de Engenharia da Computação, atualmente cursando o sexto periodo no IFPB</p>
-<p align="center">Estou sempre buscando aprender mais, para poder, sempre, apresentar e entregar o melhor possível para todos!😁</p>
+<!-- Banner animado -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Fabrício%20Moreno&fontSize=40&fontAlignY=35)
+
+<!-- Introdução -->
+<h2 align="center">👋 Olá! Seja bem-vindo ao meu GitHub</h2>
+
+<p align="center">
+  🚀 Estudante de <b>Engenharia da Computação</b> (6º período - IFPB)<br>
+  💻 Apaixonado por <b>Backend</b> e <b>Fullstack</b><br>
+  📚 Explorando <b>Go, React, Ciência de Dados</b> e muito mais!
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/FabsMS">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=FabsMS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabsMS&layout=compact&langs_count=7&theme=react"/>
-</div>
-  
-<div style="display: inline_block" align="center"><br>
- <table>
-  <tr>
-    <td align="center">Conhecimento em:</td>
-    <td align="center">Aprendendo:</td>
-    <td align="center">Pretensão em aprender:</td>
-  </tr>
-  <tr>
-   <td align="center">
-     <img align="center" title="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-     <img align="center" title="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-     <img align="center" title="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-     <img align="center" title="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-     <img align="center" title="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-     <img align="center" title="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-     <img align="center" title="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-     <img align="center" title="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-     <img align="center" title="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-     <img align="center" title="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"" />
-   </td>
-   <td align="center">
-     <img align="center" title="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-     <img align="center" title="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-     <img align="center" title="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-     <img align="center" title="VueJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-     <img align="center" title="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-   </td>
-   <td align="center">
-     <img align="center" title="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-     <img align="center" title="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-   </td>
-  </tr>
- </table>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FabsMS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=FabsMS&theme=tokyonight"/>
 </div>
 
-<div align="center"> 
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabsMS&layout=donut&theme=tokyonight"/>
+</div>
+
+---
+
+## 🚀 Tecnologias que domino
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📚 Atualmente estudando
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+
+---
+
+## 🎯 Pretensão em aprender
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+---
+
+## 💡 Projetos em Destaque
+- [📘 Clarity](https://github.com/FabsMS/Clarity) → Extensão para VS Code que gera documentação automática do projeto.
+
+---
+
+## 🌎 Onde me encontrar
+<div align="center">
   <a href="https://www.instagram.com/yagami_fabricio/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:fabricioms.pessoal@gmail"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:fabricioms.pessoal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fabricio-moreno-60a8b121a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-<br>
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FabsMS/FabsMS/output/github-contribution-grid-snake-dark.svg">
- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FabsMS/FabsMS/output/github-contribution-grid-snake.svg">
- <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FabsMS/FabsMS/output/github-contribution-grid-snake.svg">
-</picture>
-
-
-
+---
